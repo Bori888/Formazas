@@ -1,0 +1,31 @@
+Hozz létre egy mappát - SajatNev_Hivatkozasok_Formazasok néven!
+Az egyik fájlt nevezd át index.html-re!
+
+Formázd meg a mintának megfelelően a két szöveget! Ehhez használj stíluslapot, melyet mindkét oldalra linkelj be!
+A formázáshoz tetszőleges színeket használhatsz, de figyelj az olvashatóságra!
+
+
+A szöveg sorkizárt igazítású legyen!
+A betűtípus:  "Trebuchet MS", Arial, Helvetica, sans-serif
+
+
+A főcím legyen 
+középre igazítva
+A betűk közti távolság 15 px
+A betűméret 60px
+Állíts be árnyékot a betűknek!
+legyen vastag betűs
+A betűtípus  "Century Gothic", Georgia, 'Times New Roman', Times, serif;
+
+
+Az alcímek legyenek kiskapitálisak
+A betűk közti távolság 5px
+A betűtípus  "Century Gothic", Georgia, 'Times New Roman', Times, serif;
+
+Készíts navigációt mindkét oldalra a mintának megfelelően!
+A hivatkozások ne legyenek aláhúzva, 
+Ne legyen előttük felsorolásjel,
+Állítsd be a linkek viselkedését! ( alapállapot, látogatott link, fölé viszem az egeret) ha föléjük viszem az egeret, 
+
+
+
